@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+AE_mnist.ipynb	
+__pycache__/ae.cpython-38.pyc	
+ae.py
+ae_2.pt	
+*/mnist_classif/*
+__pycache__/ae.cpython-38.pyc __pycache__/mnist_cvae.cpython-38.pyc
+__pycache__/ae.cpython-38.pyc
